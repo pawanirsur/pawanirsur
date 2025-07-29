@@ -41,7 +41,6 @@ I am a passionate and highly motivated data and business analytics fresher, curr
 
 ## 📚 Certifications  
 - **Data & Business Analysis NanoDegree** - Jobaaj Learning Group (2024)  
-- **Microsoft Power BI Certified** (DA-100)  
 - **Google Data Analytics Professional Certificate**  
 
 ---
