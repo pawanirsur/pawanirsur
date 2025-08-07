@@ -36,7 +36,7 @@ I am a passionate and highly motivated data and business analytics fresher, curr
 - Developed ML model to segment 5K+ customers using RFM methodology  
 - Visualized segments for targeted marketing campaigns  
 - **Tools**: Pivot-Table, Charts,   
-[![View Dashboard](https://img.shields.io/badge/🔍-View%20Dashboard-blue)](projects/sales-analysis)  
+[![View Dashboard]([https://img.shields.io/badge/🔍-View%20Dashboard-blue)](projects/sales-analysis](https://github.com/imip01/imip01/blob/main/Adecco_HR_Dashboard.xlsx))  
 ---
 
 ## 📚 Certifications  
