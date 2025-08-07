@@ -31,12 +31,12 @@ I am a passionate and highly motivated data and business analytics fresher, curr
 
 [![View Dashboard](https://img.shields.io/badge/🔍-View%20Dashboard-blue)](projects/sales-analysis)  
 
-### 2. [Customer Segmentation Model](projects/customer-segmentation)  
-*Python | Clustering | RFM Analysis*  
+### 2. [Addeco_Hr_Dashboard)  
+*MS Excel | Data Cleaning | Dashboard*  
 - Developed ML model to segment 5K+ customers using RFM methodology  
 - Visualized segments for targeted marketing campaigns  
-- **Tools**: Scikit-learn, Seaborn, Pandas  
-
+- **Tools**: Pivot-Table, Charts,   
+[![View Dashboard](https://img.shields.io/badge/🔍-View%20Dashboard-blue)](projects/sales-analysis)  
 ---
 
 ## 📚 Certifications  
