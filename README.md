@@ -23,8 +23,8 @@ I am a passionate and highly motivated data and business analytics fresher, curr
 
 ## 📂 Featured Projects  
 
-### 1. [Sales Performance Dashboard](projects/sales-analysis)  
-*Power BI | SQL | Data Modeling*  
+### 1. [UPI-transaction-LookerStudio](projects/UPI_Transaction_Analysis)  
+*Excel | Looker Studio*  
 - Analyzed 10K+ sales records to identify top-performing products  
 - Built interactive dashboard showing regional sales trends and growth opportunities  
 - **Impact**: Recommended strategy that improved revenue by 15% in simulations  
