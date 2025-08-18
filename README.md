@@ -31,7 +31,7 @@ I am a passionate and highly motivated data and business analytics fresher, curr
 - Built interactive dashboard showing regional sales trends and growth opportunities  
 - **Impact**: Recommended strategy that improved revenue by 15% in simulations  
 
-[![View Dashboard](https://img.shields.io/badge/🔍-View%20Dashboard-blue)]((https://github.com/imip01/finx-upi-transaction-analysis))  
+[![View Dashboard](https://img.shields.io/badge/🔍-View%20Dashboard-blue)](https://github.com/imip01/finx-upi-transaction-analysis)  
 
 ### 2. [Addeco_Hr_Dashboard)  
 *MS Excel | Data Cleaning | Dashboard*  
