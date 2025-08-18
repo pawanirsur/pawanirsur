@@ -30,6 +30,7 @@ I am a passionate and highly motivated data and business analytics fresher, curr
 - Analyzed 10K+ sales records to identify top-performing products  
 - Built interactive dashboard showing regional sales trends and growth opportunities  
 - **Impact**: Recommended strategy that improved revenue by 15% in simulations  
+<img width="2500" height="1876" alt="Revenue Impact" src="https://github.com/user-attachments/assets/1bf38468-dfc4-4e9e-868c-41b681282d8e" />
 
 [![View Dashboard](https://img.shields.io/badge/🔍-View%20Dashboard-blue)](https://github.com/imip01/finx-upi-transaction-analysis)  
 
