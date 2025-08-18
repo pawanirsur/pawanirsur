@@ -2,7 +2,7 @@
 **Entry-Level Data & Business Analytics Professional | Skilled in Power BI, SQL, Excel, Python | Problem Solver**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pawanirsur)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](pavanirsur@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:pavanirsur@gmail.com)
 [![Tableau](https://img.shields.io/badge/Tableau-Public-orange?style=flat&logo=tableau)](YOUR_TABLEAU_LINK) *// REPLACE WITH ACTUAL TABLEAU URL*
 [![Resume](https://img.shields.io/badge/📄-Download%20Resume-green?style=flat)](assets/resume.pdf)
 
