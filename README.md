@@ -1,58 +1,108 @@
-# 👋 Hi, I'm Pawan Ashok irsur  
-**Entry-Level Data & Business Analytics Professional | Skilled in Power BI, SQL, Excel, Python | Problem Solver**
+# 👋 Hi, I'm Pawan Ashok Irsur  
+
+**UI/UX Designer | UI/UX Researcher | Data & Business Analytics | Aspiring Product Manager**  
+**3+ Years in Design • Engineering & Analytics Background • Remote Collaboration**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pawanirsur)
-<a href="mailto:pavanirsur@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" alt="Email Badge">
-</a>
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:pavanirsur@gmail.com)
 [![Tableau](https://img.shields.io/badge/Tableau-Public-orange?style=flat&logo=tableau)](https://public.tableau.com/app/profile/pawanirsur)
 [![Resume](https://img.shields.io/badge/📄-Download%20Resume-green?style=flat)](assets/resume.pdf)
 
 ---
 
 ## 🚀 About Me  
-I am a passionate and highly motivated data and business analytics fresher, currently enrolled in a Data and Business Analysis specialization nano-degree at Jobaaj Learning Group. My skills include Excel, Power BI, SQL, data visualization, and business analysis. I enjoy working with data to uncover insights, build impactful dashboards, and help businesses make smarter decisions. I am actively seeking entry-level roles, internships, or project collaborations to gain industry experience.
+
+I’m a **UI/UX Designer with 3+ years of experience**, currently working **remotely with multiple agencies** on user research, interface design, and front-end implementation.
+
+Alongside design, I have a strong foundation in **Data & Business Analytics**, enabling me to make **data-driven design decisions**, measure usability, and align products with business goals.
+
+Previously, I worked as a **Project Site Engineer**, managing teams and delivering mechanical and fire safety projects. I’m now intentionally transitioning toward **Product / Project Management**, combining **design, analytics, and execution**.
 
 ---
 
-## 🔧 Technical Skills  
-- **Tools**: Power BI, Tableau, Excel (Advanced), Jupyter Notebooks  
-- **Databases**: SQL (MySQL, PostgreSQL), BigQuery  
-- **Languages**: Python (Pandas, NumPy, Matplotlib), DAX  
-- **Concepts**: ETL, Data Modeling, KPI Tracking, Statistical Analysis  
+## 🎨 UI/UX Design & Research  
+
+- User Research & Usability Testing  
+- Wireframing & Prototyping  
+- Design Systems & UI Guidelines  
+- UX Audits  
+
+### Tools  
+- Figma  
+- Adobe XD  
+- Adobe Creative Suite  
+- Jira  
+- Notion  
+
+### Front-End (Working Knowledge)  
+- HTML  
+- CSS  
 
 ---
 
-## 📂 Featured Projects  
+## 📊 Data & Business Analytics  
 
-### 1. [UPI-transaction-LookerStudio](https://github.com/imip01/finx-upi-transaction-analysis) 
-*Excel | Looker Studio*  
-- Analyzed 10K+ sales records to identify top-performing products  
-- Built interactive dashboard showing regional sales trends and growth opportunities  
-- **Impact**: Recommended strategy that improved revenue by 15% in simulations  
-<img width="2500" height="1876" alt="Revenue Impact" src="https://github.com/user-attachments/assets/1bf38468-dfc4-4e9e-868c-41b681282d8e" />
+### Tools & Technologies  
+- Power BI  
+- Tableau  
+- Excel (Advanced)  
+- SQL (MySQL, PostgreSQL, BigQuery)  
+- Python (Pandas, NumPy, Matplotlib)  
+- DAX  
+- Jupyter Notebooks  
 
-[![View_Full Dashboard](https://img.shields.io/badge/🔍-View%20Dashboard-blue)](https://lookerstudio.google.com/reporting/0debb2cf-b700-415a-9bd7-24b29d7ba183)
-
-### 2. [Addeco_Hr_Dashboard)  
-*MS Excel | Data Cleaning | Dashboard*  
-- Developed ML model to segment 5K+ customers using RFM methodology  
-- Visualized segments for targeted marketing campaigns  
-- **Tools**: Pivot-Table, Charts,   
-[![View Dashboard]([https://img.shields.io/badge/🔍-View%20Dashboard-blue)](projects/sales-analysis](https://github.com/imip01/imip01/blob/main/Adecco_HR_Dashboard.xlsx))  
----
-
-## 📚 Certifications  
-- **Data & Business Analysis NanoDegree** - Jobaaj Learning Group (2024)  
-- **Google Data Analytics Professional Certificate**  
+### Capabilities  
+- Data Cleaning & ETL  
+- Dashboard Development & KPI Tracking  
+- Business Insights & Reporting  
+- Data Visualization  
 
 ---
 
-## 📬 Let's Connect!  
-I'm currently looking for opportunities in data analytics. Reach out if you:  
-- Want to collaborate on data projects  
-- Need help building analytical dashboards  
-- Are hiring for entry-level analyst roles  
+## 🏗️ Engineering & Project Experience  
 
-**Professional Email**: pavanirsur@gmail.com  
-**LinkedIn**: [www.linkedin.com/in/pawanirsur](www.linkedin.com/in/pawanirsur)  
+**Project Site Engineer – Mechanical & Fire Safety (2 Years)**  
+- Worked on Mechanical, Steel Structure, Hydrant & Fire Safety Systems  
+- Managed **13+ labours** on-site following plant and safety guidelines  
+- Delivered **3 projects** end-to-end  
+- Coordinated with contractors, vendors, and supervisors  
+
+---
+
+## 💼 Current Work  
+
+**UI/UX Researcher & Developer (Remote)**  
+- Working with multiple agencies on client projects  
+- Conducting user research and usability testing  
+- Designing responsive interfaces and collaborating with developers  
+- Supporting design decisions with analytics  
+
+---
+
+## 📂 Featured Project  
+
+### UPI Transaction Analysis – Looker Studio  
+*Excel | Looker Studio | Data Visualization*  
+- Analyzed **10K+ transaction records**  
+- Built interactive dashboards for trend analysis  
+- Simulated **15% revenue improvement**
+
+🔗 https://lookerstudio.google.com/reporting/0debb2cf-b700-415a-9bd7-24b29d7ba183
+
+---
+
+## 📈 Career Direction  
+
+Actively preparing for roles in:  
+- Product Manager  
+- Project Manager  
+- UX Strategist / Researcher  
+
+Focused on bridging **user needs, data insights, and business goals**.
+
+---
+
+## 📬 Let’s Connect  
+
+📧 Email: pavanirsur@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/pawanirsur
