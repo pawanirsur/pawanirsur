@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pawan Ashok Irsur  
 
 **UI/UX Designer | UX Strategist & Researcher | Data & Business Analytics | Aspiring Product Manager**  
-**3+ Years in Design • Engineering, Analytics & IT Background • Remote Collaboration**
+**5+ Years in Design • Engineering, Analytics & IT Background • Remote Collaboration**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pawanirsur)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:pavanirsur@gmail.com)
